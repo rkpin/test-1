@@ -1,0 +1,17 @@
+type: object
+properties:
+  key:
+    type: number
+    description: entity key
+  amount:
+    type: number
+    description: amount value
+  mrn:
+    type: string
+    description: entity key
+  id:
+    type: string
+    description: unique message id guid format.
+  creationDate:
+    type: string
+    description: event date time
